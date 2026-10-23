@@ -38,7 +38,7 @@ The project achieved a reported **92% accuracy**. The performance of each classi
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/YoustinaEhab/Heart-Disease-Prediction.git
-cd YOUR-REPOSITORY
+cd Heart-Disease-Prediction
 ```
 
 ### 2. Install dependencies
