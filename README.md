@@ -48,5 +48,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy jupyter
 
 ### 3. Run the project
 Open the Jupyter Notebook included in the repository and run the cells in order.
-[GitHub](https://github.com/YOUR-USERNAME) | [LinkedIn](https://www.linkedin.com/)
-
